@@ -1,0 +1,88 @@
+{
+  "tasks": [
+    {
+      "id": "id1749825072093",
+      "title": "sdflkgn JVM",
+      "description": "Java",
+      "category": "development",
+      "priority": "medium",
+      "startTime": "21:36",
+      "endTime": "21:31",
+      "dueDate": "2025-06-23",
+      "cardColor": "yellow",
+      "isCompleted": false
+    },
+    {
+      "id": "id1749816950278",
+      "title": "Homework",
+      "description": "ewrer",
+      "category": "design",
+      "priority": "high",
+      "startTime": "19:16",
+      "endTime": "21:15",
+      "dueDate": "2025-07-02",
+      "cardColor": "purple",
+      "isCompleted": false
+    },
+    {
+      "id": "id1749665383512",
+      "title": "Homework Edit",
+      "description": "213",
+      "category": "meeting",
+      "priority": "high",
+      "startTime": "13:13",
+      "endTime": "01:14",
+      "dueDate": "2025-06-03",
+      "cardColor": "yellow",
+      "isCompleted": true
+    },
+    {
+      "id": "id1749665313786",
+      "title": "Homework 2",
+      "description": "ert",
+      "category": "planning",
+      "priority": "high",
+      "startTime": "13:08",
+      "endTime": "01:13",
+      "dueDate": "2025-07-07",
+      "cardColor": "yellow",
+      "isCompleted": false
+    },
+    {
+      "id": "id1749665300070",
+      "title": "Homework Edit",
+      "description": "erty",
+      "category": "development",
+      "priority": "urgent",
+      "startTime": "01:14",
+      "endTime": "05:08",
+      "dueDate": "2025-07-01",
+      "cardColor": "purple",
+      "isCompleted": false
+    },
+    {
+      "title": "8386",
+      "description": "fg 1945\nddddeeeeeeeee",
+      "category": "development",
+      "priority": "high",
+      "startTime": "01:12",
+      "endTime": "01:12",
+      "dueDate": "2025-07-08",
+      "cardColor": "purple",
+      "isCompleted": true,
+      "id": "id1749665261612"
+    },
+    {
+      "title": "HUYYYYYYYYYYY",
+      "description": "HUYYYYYYYYYYY",
+      "category": "design",
+      "priority": "high",
+      "startTime": "21:15",
+      "endTime": "21:16",
+      "dueDate": "2025-07-25",
+      "cardColor": "yellow",
+      "isCompleted": false,
+      "id": "669e"
+    }
+  ]
+}

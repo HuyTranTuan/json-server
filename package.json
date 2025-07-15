@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "json-server db.json",
-    "dev": "json-server db.json"
+    "start": "json-server db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuyTranTuan/json-server.git"
   },
   "keywords": [],
   "author": "Huy",

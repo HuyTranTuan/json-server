@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "run": "nodemon db.json",
-    "dev": "nodemon db.json"
+    "start": "json-server db.json",
+    "dev": "json-server db.json"
   },
   "keywords": [],
   "author": "Huy",
